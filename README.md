@@ -37,7 +37,7 @@ can ship your `.env`, an `rm -rf` with an unset variable can wipe work, a force-
 can clobber shared history. This template installs the checkpoints that prevent each,
 plus the context (`CLAUDE.md`) that keeps the agent cheap to run. It's the
 [CC Powerpack](https://github.com/Ludoonus/cc-powerpack) guardrails and the practices
-from [The Claude Code Operator's Handbook](https://ludoonus.github.io/cc-powerpack/),
+from [The Claude Code Operator's Handbook](https://ludoonus.github.io/cc-powerpack/handbook/),
 pre-wired.
 
 ## Stack-specific starters
